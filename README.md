@@ -25,5 +25,5 @@ Example of S-PTAM on KITTI dataset
  
 
 ## System overview :  
-![](docs/sptam_overview.png)
+![](docs/img.png)
 
